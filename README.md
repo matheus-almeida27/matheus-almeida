@@ -8,6 +8,6 @@ Me chamo Matheus, sou estudante e futuro Fullstack Developer. Apaixonado por tec
 
 
 <br>
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-almeida27&show_icons=true&theme=radical)
+[![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-almeida27&show_icons=true&theme=radical)]
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-almeida27&layout=compact&theme=radical)](https://github.com/matheus-almeida27/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
