@@ -1,4 +1,4 @@
-### Heey! Bem vindo ao meu Github! ✌🏽
+### Hey! Bem vindo ao meu Github! ✌🏽
 
 
 Me chamo Matheus, sou Instrutor de Informática e futuro Fullstack Developer.
